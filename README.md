@@ -12,3 +12,6 @@ These will probably just be general purpose so go feel free to modify them as yo
 
 * Basic Queue
     - Has basic Queue management commands
+
+* Check-in
+    - A timecard like bot suggested on a [reddit](https://old.reddit.com/r/Discord_Bots/comments/iw7wds/timeclock_bot/) post
